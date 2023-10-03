@@ -1,3 +1,3 @@
 # Solutions to Rosalind problems
 
-Starting learning about bioinformatics algorithms!
+Starting to learn about bioinformatics algorithms on [Rosalind](https://rosalind.info/users/MagicWinnie/)!
